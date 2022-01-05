@@ -1,1 +1,2 @@
 only_file_b.2
+update only only_file_b
